@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /utility-pages/
+Disallow: /401.html
+
+Sitemap: https://www.aliverhanf.de/sitemap.xml
